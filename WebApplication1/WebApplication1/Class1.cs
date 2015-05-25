@@ -7,7 +7,7 @@ namespace WebApplication1
 {
     public class Class1
     {
-        // Master
+        // Master 456
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public double salary { get; set; }
