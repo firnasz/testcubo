@@ -17,6 +17,10 @@ namespace WebApplication1
             return FirstName + " " + LastName;
         }
 
+        public double getSalary()
+        {
+            return salary;
+        }
 
 
     }
