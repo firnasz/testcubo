@@ -24,6 +24,9 @@ namespace WebApplication1
             return salary;
         }
 
-
+        public string GetFullName()
+        {
+            return FirstName + " " + LastName;
+        }
     }
 }
