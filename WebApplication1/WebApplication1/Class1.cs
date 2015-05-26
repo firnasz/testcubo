@@ -22,6 +22,10 @@ namespace WebApplication1
             return 100000;
         }
 
+        public double getBonus()
+        {
+            return 10000;
+        }
         
 
     }
