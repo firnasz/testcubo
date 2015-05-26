@@ -20,7 +20,7 @@ namespace WebApplication1
 
         public double getSalary()
         {
-            return salary;
+            return salary + 100000;
         }
 
 
