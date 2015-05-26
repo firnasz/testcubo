@@ -23,6 +23,9 @@ namespace WebApplication1
             return salary + 100000;
         }
 
-
+        public double getBonus()
+        {
+            return 5000;
+        }
     }
 }
